@@ -90,7 +90,7 @@ body {
 }
 
 #select {
-    margin: 2em;
+    margin: 1em;
     font-size: 2em;
 }
 
@@ -99,3 +99,7 @@ body {
     background-color:whitesmoke;
 }
 
+#button {
+    margin:1em;
+    font-size:1em;
+}

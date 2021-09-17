@@ -10,25 +10,12 @@ namespace Drinks_Machine.Models
         public List<string> NameList { get; set; }
         public DrinkListModel()
         {
-            //NeedName();
+            //TODO - Find way to make list dynamic from drink models.  
             NameList = new List<string> { "Chocolate", "Lemon Tea", "Coffee" };
-            //NameList.Add("Chocolate");
-            //NameList.Add("Lemon Tea");
-            //NameList.Add("Coffee");
-
-        } 
-
-           
-
-        static void NeedName()
-        {
-            //dynamic Choc = new LemonTeaModel().AddName();
-            
-
-
-            //Console.WriteLine(Choc);
-
         }
+
+
+
 
 
             

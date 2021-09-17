@@ -7,7 +7,7 @@ namespace Drinks_Machine.Models
 {
 
     public class LemonTeaModel : HotDrinkModel
-    //This is lemontea modle is based of hot drink model. 
+    //This is lemontea model is based of hot drink model. 
     {
         public LemonTeaModel() 
         {
@@ -16,9 +16,7 @@ namespace Drinks_Machine.Models
 
         public string AddName()
         {
-            //NameList.Add("LemonTea");
-            return "Lemon Tea";
-            
+            return "Lemon Tea";   
         }
 
         public void SetRecipe()

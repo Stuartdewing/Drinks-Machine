@@ -4,6 +4,8 @@
 // Write your JavaScript code.
 
 const TextDisplay = document.getElementById("textDisplay");
+let button = document.getElementById("button");
+let select = document.getElementById("select");
 
 function PopulateDrinkList() {
 	$.ajax({
@@ -46,6 +48,9 @@ PopulateDrinkList();
 
 // Event lisnter for drink selection <select>
 $('select').on('change', function () {
+	
+	select.style.display = "none";
+	button.style.display = "block";
 
 	let DrinkSelection = this.value;
 
@@ -63,19 +68,19 @@ $('select').on('change', function () {
 
 				console.log(result);
 				
-				let i = 0;									//  set your counter to 1
+				let i = 0;									
 
-				function myLoop() {							//  create a loop function
-					setTimeout(function () {				//  call a 1.5s setTimeout when the loop is called
-						$(TextDisplay).html(result[i]);		//  your code here
-						i++;								//  increment the counter
-						if (i < result.length) {			//  if the counter < 10, call the loop function
-							myLoop();						//  ..  again which will trigger another 
-						}									//  ..  setTimeout()
+				function myLoop() {							
+					setTimeout(function () {				
+						$(TextDisplay).html(result[i]);		
+						i++;								
+						if (i < result.length) {			
+							myLoop();						
+						}									
 					}, 3000)
 				}
 
-				myLoop();									//  start the loop
+				myLoop();									
 
 			},
 			error: function (jqXHR, textStatus, errorThrow) {
@@ -87,6 +92,15 @@ $('select').on('change', function () {
 });
 
 
+//$('button').click(function () {
+//	console.log("Click");
+//};
+$(document).ready(function () {
+	$("#button").click(function () {
+		select.style.display = "block";
+		button.style.display = "none";
+	});
+});
 
 
 
