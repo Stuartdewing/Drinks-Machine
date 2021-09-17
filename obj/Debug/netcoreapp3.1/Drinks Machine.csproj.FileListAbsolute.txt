@@ -1,0 +1,37 @@
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\Drinks Machine.exe
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\Drinks Machine.deps.json
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\Drinks Machine.runtimeconfig.json
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\Drinks Machine.runtimeconfig.dev.json
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\Drinks Machine.dll
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\Drinks Machine.pdb
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\Drinks Machine.Views.dll
+C:\Users\customer\source\repos\Drinks Machine\bin\Debug\netcoreapp3.1\Drinks Machine.Views.pdb
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.csprojAssemblyReference.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.AssemblyInfoInputs.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.AssemblyInfo.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.csproj.CoreCompileInputs.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.RazorAssemblyInfo.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.RazorAssemblyInfo.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\staticwebassets\Drinks Machine.StaticWebAssets.Manifest.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\staticwebassets\Drinks Machine.StaticWebAssets.xml
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\scopedcss\bundle\Drinks Machine.styles.css
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.TagHelpers.input.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.TagHelpers.output.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.RazorCoreGenerate.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.RazorTargetAssemblyInfo.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.RazorTargetAssemblyInfo.cs
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.Views.pdb
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.dll
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.pdb
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.genruntimeconfig.cache
+C:\Users\customer\source\repos\Drinks Machine\obj\Debug\netcoreapp3.1\Drinks Machine.csproj.CopyComplete
