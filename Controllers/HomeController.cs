@@ -20,7 +20,7 @@ namespace Drinks_Machine.Controllers
 
         public IActionResult Index()
         {
-            return View(new CoffeeModel("Stuart", "Big Boy"));
+            return View(new CoffeeModel("Customer Name", "Size"));
         }
 
         public IActionResult Privacy()
